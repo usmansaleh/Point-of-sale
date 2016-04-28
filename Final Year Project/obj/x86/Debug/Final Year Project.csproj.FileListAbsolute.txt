@@ -1,0 +1,47 @@
+c:\users\usman\documents\visual studio 2010\Projects\E Billing\Final Year Project\bin\Debug\Final Year Project.exe
+c:\users\usman\documents\visual studio 2010\Projects\E Billing\Final Year Project\bin\Debug\Final Year Project.pdb
+c:\users\usman\documents\visual studio 2010\Projects\E Billing\Final Year Project\obj\x86\Debug\Final_Year_Project.LogIn.resources
+c:\users\usman\documents\visual studio 2010\Projects\E Billing\Final Year Project\obj\x86\Debug\Final_Year_Project.Main.resources
+c:\users\usman\documents\visual studio 2010\Projects\E Billing\Final Year Project\obj\x86\Debug\Final_Year_Project.Properties.Resources.resources
+c:\users\usman\documents\visual studio 2010\Projects\E Billing\Final Year Project\obj\x86\Debug\Final_Year_Project.Recovery_Form.resources
+c:\users\usman\documents\visual studio 2010\Projects\E Billing\Final Year Project\obj\x86\Debug\Final Year Project.csproj.GenerateResource.Cache
+c:\users\usman\documents\visual studio 2010\Projects\E Billing\Final Year Project\obj\x86\Debug\Final Year Project.exe
+c:\users\usman\documents\visual studio 2010\Projects\E Billing\Final Year Project\obj\x86\Debug\Final Year Project.pdb
+c:\users\usman\documents\visual studio 2010\Projects\E Billing\Final Year Project\bin\Debug\HusainTrades.mdb
+c:\users\usman\documents\visual studio 2010\Projects\E Billing\Final Year Project\bin\Debug\Final Year Project.exe.config
+c:\users\usman\documents\visual studio 2010\Projects\E Billing\Final Year Project\obj\x86\Debug\Final_Year_Project.Sale.resources
+c:\users\usman\documents\visual studio 2010\Projects\E Billing\Final Year Project\obj\x86\Debug\Final_Year_Project.Customre_Record.resources
+c:\users\usman\documents\visual studio 2010\Projects\E Billing\Final Year Project\obj\x86\Debug\Final_Year_Project.Print_Invoice.resources
+c:\users\usman\documents\visual studio 2010\Projects\E Billing\Final Year Project\obj\x86\Debug\RdlCompile.cache
+c:\users\usman\documents\visual studio 2010\Projects\E Billing\Final Year Project\obj\x86\Debug\RdlCompile.compiled
+c:\users\usman\documents\visual studio 2010\Projects\E Billing\Final Year Project\obj\x86\Debug\Final_Year_Project.CustomerForm.resources
+c:\users\usman\documents\visual studio 2010\Projects\E Billing\Final Year Project\obj\x86\Debug\Final_Year_Project.New_Stock.resources
+c:\users\usman\documents\visual studio 2010\Projects\E Billing\Final Year Project\obj\x86\Debug\Final_Year_Project.Search_Stock.resources
+C:\Users\Usman\documents\visual studio 2010\Projects\E Billing\Final Year Project\obj\x86\Debug\Final_Year_Project.SignUp.resources
+C:\Users\Usman\documents\visual studio 2010\Projects\E Billing\Final Year Project\obj\x86\Debug\Final_Year_Project.History.resources
+C:\Users\Usman\documents\visual studio 2010\Projects\E Billing\Final Year Project\obj\x86\Debug\Final_Year_Project.Contect.resources
+C:\Users\Usman\documents\visual studio 2010\Projects\E Billing\Final Year Project\obj\x86\Debug\Final Year Project.csprojResolveAssemblyReference.cache
+C:\Users\Usman\Documents\Visual Studio 2010\Projects\E Billing\Final Year Project\bin\Debug\MySql.Data.dll
+F:\E Billing\Final Year Project\bin\Debug\HusainTrades.mdb
+F:\E Billing\Final Year Project\bin\Debug\Final Year Project.exe.config
+F:\E Billing\Final Year Project\bin\Debug\Final Year Project.exe
+F:\E Billing\Final Year Project\bin\Debug\MySql.Data.dll
+F:\E Billing\Final Year Project\obj\x86\Debug\Final Year Project.csprojResolveAssemblyReference.cache
+F:\E Billing\Final Year Project\obj\x86\Debug\Final_Year_Project.Contect.resources
+F:\E Billing\Final Year Project\obj\x86\Debug\Final_Year_Project.CustomerForm.resources
+F:\E Billing\Final Year Project\obj\x86\Debug\Final_Year_Project.Customre_Record.resources
+F:\E Billing\Final Year Project\obj\x86\Debug\Final_Year_Project.History.resources
+F:\E Billing\Final Year Project\obj\x86\Debug\Final_Year_Project.LogIn.resources
+F:\E Billing\Final Year Project\obj\x86\Debug\Final_Year_Project.Main.resources
+F:\E Billing\Final Year Project\obj\x86\Debug\Final_Year_Project.New_Stock.resources
+F:\E Billing\Final Year Project\obj\x86\Debug\Final_Year_Project.Print_Invoice.resources
+F:\E Billing\Final Year Project\obj\x86\Debug\Final_Year_Project.Properties.Resources.resources
+F:\E Billing\Final Year Project\obj\x86\Debug\Final_Year_Project.Recovery_Form.resources
+F:\E Billing\Final Year Project\obj\x86\Debug\Final_Year_Project.Sale.resources
+F:\E Billing\Final Year Project\obj\x86\Debug\Final_Year_Project.Search_Stock.resources
+F:\E Billing\Final Year Project\obj\x86\Debug\Final_Year_Project.SignUp.resources
+F:\E Billing\Final Year Project\obj\x86\Debug\Final Year Project.csproj.GenerateResource.Cache
+F:\E Billing\Final Year Project\obj\x86\Debug\RdlCompile.cache
+F:\E Billing\Final Year Project\obj\x86\Debug\RdlCompile.compiled
+F:\E Billing\Final Year Project\obj\x86\Debug\Final Year Project.exe
+F:\E Billing\Final Year Project\obj\x86\Debug\Final Year Project.pdb
